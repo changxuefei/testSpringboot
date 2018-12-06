@@ -1,0 +1,8 @@
+server:
+  port: 8010
+  tomcat:
+    uri-encoding: UTF-8
+  servlet:
+    context-path: /testSpringboot
+
+tt: ssss
